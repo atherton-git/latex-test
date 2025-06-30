@@ -1,10 +1,10 @@
 ---
-title: "Offensive Security Incident Responder Exam Report"
-author: ["student@youremailaddress.com", "OSID: XXXXX"]
-date: "2024-12-01"
+title: "Cyber Incident Response Report Template"
+author: ["incidentresponse@youremailaddress.com"]
+date: "2024-01-01"
 subject: "Markdown"
 keywords: [Markdown, Example]
-subtitle: "OSIR Exam Report"
+subtitle: "Cyber Incident Response"
 lang: "en"
 titlepage: true
 titlepage-color: "108062"
@@ -26,8 +26,6 @@ code-block-font-size: \scriptsize
 
 ## Document Classification  
 Confidentiality Level: CONFIDENTIAL  
-Distribution List: Incident Response Team, CISO, Legal, Executive Leadership  
-Retention Policy: Retain for 7 years per corporate security policy  
 
 # Incident Overview and Executive Briefing  
 
