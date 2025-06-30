@@ -7,7 +7,7 @@ keywords: [Markdown, Example]
 subtitle: "Cyber Incident Response"
 lang: "en"
 titlepage: true
-titlepage-color: "108062"
+titlepage-color: "491F73"
 titlepage-text-color: "FFFAFA"
 titlepage-rule-color: "FFFAFA"
 titlepage-rule-height: 2
